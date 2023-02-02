@@ -1,0 +1,24 @@
+{
+  "words": [
+    {
+      "english": "hello",
+      "spanish": "hola",
+      "additionalInfo": "Often used as a casual greeting."
+    },
+    {
+      "english": "goodbye",
+      "spanish": "adiós",
+      "additionalInfo": "Often used as a casual farewell."
+    },
+    {
+      "english": "yes",
+      "spanish": "sí",
+      "additionalInfo": "Used to express agreement or assent."
+    },
+    {
+      "english": "no",
+      "spanish": "no",
+      "additionalInfo": "Used to express disagreement or negation."
+    }
+  ]
+}
